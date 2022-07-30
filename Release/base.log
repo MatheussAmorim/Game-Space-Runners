@@ -1,0 +1,32 @@
+﻿  Item.cpp
+C:\libUnicornio\projetos\Space Runners\Item.cpp(77,19): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Item.cpp(78,22): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Item.cpp(100,21): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+  Jogo.cpp
+C:\libUnicornio\projetos\Space Runners\Item.cpp(100,18): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Jogo.cpp(14,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Jogo.cpp(47,28): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\libUnicornio\projetos\Space Runners\Jogo.cpp(137,29): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Jogo.cpp(139,29): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Jogo.cpp(140,25): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Jogo.cpp(211,29): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Jogo.cpp(213,29): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Jogo.cpp(214,25): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Jogo.cpp(243,22): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Jogo.cpp(243,17): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Jogo.cpp(244,22): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Jogo.cpp(244,17): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Jogo.cpp(269,38): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Jogo.cpp(290,29): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Jogo.cpp(299,29): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Personagem.cpp
+C:\libUnicornio\projetos\Space Runners\Jogo.cpp(351,34): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\libUnicornio\projetos\Space Runners\Personagem.cpp(38,28): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\libUnicornio\projetos\Space Runners\Personagem.cpp(43,28): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\libUnicornio\projetos\Space Runners\Personagem.cpp(48,28): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\libUnicornio\projetos\Space Runners\Personagem.cpp(51,24): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Personagem.cpp(187,20): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\libUnicornio\projetos\Space Runners\Personagem.cpp(187,18): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+LINK : fatal error C1047: The object or library file '..\..\libUnicornio\lib\win\x86\libUnicornio.lib' was created with an older compiler than other objects; rebuild old objects and libraries
+LINK : fatal error LNK1257: code generation failed
